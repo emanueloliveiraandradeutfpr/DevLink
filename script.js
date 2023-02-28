@@ -1,5 +1,3 @@
-botao = document.getElementById("switch");
-
 function toggleMode() {
     const body = document.body;
     body.classList.toggle("light");
